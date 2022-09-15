@@ -1,8 +1,8 @@
 {
-  "name": "Cyber-X WA BOT",
+  "name": "ℕ𝕀𝕄𝕊𝔸ℝ𝔸𝕄𝔻",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
-  "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+  "logo": "https://hb4alllink.herokuapp.com/1aeea/file.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
